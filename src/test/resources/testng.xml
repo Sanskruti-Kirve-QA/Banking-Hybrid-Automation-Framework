@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Banking Hybrid Automation Suite" verbose="1">
+    <test name="Banking UI and API Tests">
+        <classes>
+            <class name="com.banking.qa.tests.ui.LoginTest"/>
+        </classes>
+    </test>
+</suite>
